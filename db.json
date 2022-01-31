@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "book": "Harry Potter",
+      "author": "Akash",
+      "comments": [
+        "Nice",
+        "Great"
+      ],
+      "id": 1
+    },
+    {
+      "book": "Ramayana",
+      "author": "Sohit",
+      "comments": [
+        "Great",
+        "Nice"
+      ],
+      "id": 2
+    }
+  ]
+}

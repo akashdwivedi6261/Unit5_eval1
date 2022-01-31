@@ -1,0 +1,28 @@
+#inputCont {
+    width: 15%;
+    margin: 2rem auto;
+
+}
+#container {
+    width: 20%;
+    margin: 2rem auto;
+    border: 1px solid red;
+}
+#container > div {
+    margin-bottom: 1rem;
+    padding: 0.2rem;
+    color: blue;
+}
+#container > div > div {
+    padding: 0.2rem;
+
+}
+#inputCont > div {
+    margin-bottom: 2rem;
+}
+.hidden {
+    display: none;
+}
+.visible {
+    display: block;
+}
